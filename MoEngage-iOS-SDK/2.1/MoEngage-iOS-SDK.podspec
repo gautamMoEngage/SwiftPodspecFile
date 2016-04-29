@@ -31,7 +31,6 @@ Pod::Spec.new do |s|
 
   s.preserve_paths = 'MoEngage-iOS-SDK/'
   s.ios.vendored_library = 'MoEngage-iOS-SDK/libMoEngageSDK.a'
-  s.public_headers ='MoEngage-iOS-SDK/**/*.h'
 
 
 end
